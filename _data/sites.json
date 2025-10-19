@@ -17401,6 +17401,16 @@
         "domains": ["sfimg.com"]
     },
     {
+        "name": "Shaadi.com",
+        "url": "https://my.shaadi.com/my-shaadi/my-account/hide-delete-account",
+        "difficulty": "impossible",
+        "notes": "Their policy claims that 'You will permanently lose all profile information, Match interactions and paid memberships.' But they've retained user data and is still possible to login",
+        "domains": [
+            "shaadi.com",
+            "my.shaadi.com"
+        ]
+    },
+    {
         "name": "Shadow",
         "url": "https://account.shadow.tech/home/security",
         "difficulty": "easy",
